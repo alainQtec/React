@@ -1,0 +1,16 @@
+{
+  "name": "react-sandbox",
+  "description": "vanilla react sandbox",
+  "author": "Alain Herve <alainQtec@gmail.com>",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  }
+}
