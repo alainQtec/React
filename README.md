@@ -5,7 +5,7 @@ vanilla react sandbox.
 ## Run locally
 
 ```bash
-git clone "https..."
+git clone https://github.com/alainQtec/React.git
 cd React
 pnpm i
 pnpm run dev
